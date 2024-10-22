@@ -1,0 +1,173 @@
+# Fichiers de compilation
+[Bb]in/
+[Oo]bj/
+
+# Fichiers de configuration
+*.user
+*.suo
+*.sln.docstates
+
+# Fichiers de publication
+publish/
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.cache
+
+# Fichiers de tests
+*.coverage
+*.TestResults/
+*.trx
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+
+# Visual Studio
+.vscode/
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Projets .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dossiers d'outils
+.vs/
+.vscode/
+# Fichiers de compilation
+[Bb]in/
+[Oo]bj/
+
+# Fichiers de configuration
+*.user
+*.suo
+*.sln.docstates
+
+# Fichiers de publication
+publish/
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.cache
+
+# Fichiers de tests
+*.coverage
+*.TestResults/
+*.trx
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+
+# Visual Studio
+.vscode/
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Projets .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dossiers d'outils
+.vs/
+.vscode/
+# Fichiers de compilation
+[Bb]in/
+[Oo]bj/
+
+# Fichiers de configuration
+*.user
+*.suo
+*.sln.docstates
+
+# Fichiers de publication
+publish/
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.cache
+
+# Fichiers de tests
+*.coverage
+*.TestResults/
+*.trx
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+
+# Visual Studio
+.vscode/
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Projets .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dossiers d'outils
+.vs/
+.vscode/
+# Fichiers de compilation
+[Bb]in/
+[Oo]bj/
+
+# Fichiers de configuration
+*.user
+*.suo
+*.sln.docstates
+
+# Fichiers de publication
+publish/
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.cache
+
+# Fichiers de tests
+*.coverage
+*.TestResults/
+*.trx
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+
+# Visual Studio
+.vscode/
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Projets .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dossiers d'outils
+.vs/
+.vscode/
+.idea
